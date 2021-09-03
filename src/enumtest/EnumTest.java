@@ -11,6 +11,10 @@ package enumtest;
  */
 public class EnumTest {
 
+    public enum Day {
+        SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
+        THURSDAY, FRIDAY, SATURDAY
+    }
 
 
     Day day;
